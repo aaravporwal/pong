@@ -1,5 +1,5 @@
 # Pong Game
-This is a simple Pong game built using Python and the Pygame library. The game features a player-controlled paddle on the left side and an AI-controlled opponent paddle on the right side. The objective is to score points by getting the ball past the opponent's paddle.
+This is a simple Pong game built using Python and the Pygame library. The little twist here being that the paddles are the images of Orpheus! The game features a player-controlled paddle on the left side and an AI-controlled opponent paddle on the right side. The objective is to score points by getting the ball past the opponent's paddle.
 
  # Features
 1. Player-controlled Paddle (Left): The player can move the paddle up and down using the arrow keys.
